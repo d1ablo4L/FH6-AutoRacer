@@ -45,8 +45,8 @@
 > * Resolution **4k/2k/1080p/720p** (16:9)
 > * UI size **100%**
 > * Graphics preset **Very Low**
-> * Braking **Assisted** (only if you enable manual shifting)
-> * Steering **Auto-Steering** (only if you enable manual shifting)
+> * Braking **Assisted**
+> * Steering **Auto-Steering**
 > * Shifting **Manual** (optional)(only if you enable manual shifting)
 >
 > ▶️ **How to use**
