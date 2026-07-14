@@ -1,0 +1,8 @@
+numpy
+opencv-python
+mss
+bettercam
+pywin32
+pynput
+PySide6
+win11toast
